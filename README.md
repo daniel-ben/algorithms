@@ -23,7 +23,10 @@ Graphs:
 - find lowest value in hashtable
 - dijkstra's algorithm
 
-Other:
+Math:
 - Euclide's algorithm
+- Bhaskara
+
+Other:
 - recursive sum items in list
 - recursive count items in list
